@@ -1,0 +1,7 @@
+Abc,90,
+CBS,90,
+Asd,100,
+sdzsd,80,
+jkdfjasd,100,
+Ads,540,
+Arsh,240,
